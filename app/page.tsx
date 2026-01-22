@@ -17,7 +17,7 @@ export default function Home() {
           alignItems: "center",
         }}
       >
-        <h1 style={{ margin: 0, fontSize: 20 }}>Luxapp 🔥</h1>
+        <h1 style={{ margin: 0, fontSize: 20 }}>Luxapp ✅ NEW 123</h1>
         <button
           style={{
             background: "#fff",
