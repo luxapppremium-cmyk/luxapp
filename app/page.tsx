@@ -1,6 +1,12 @@
 export default function Home() {
   return (
-    <main style={{ minHeight: "100vh" }}>
+   <main
+  style={{
+    minHeight: "100vh",
+    backgroundColor: "#0b0b0b",
+    color: "#ffffff",
+  }}
+>
       {/* Header */}
       <header
         style={{
